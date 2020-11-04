@@ -1,0 +1,24 @@
+.jumbotron{
+    background: url(img_head.jpg) center center fixed;
+    background-size: cover;
+    height: 39em;
+    border-radius: 0;
+}
+.text-uppercase{
+padding-top: 7em;
+}
+.btn-primary{
+    background: orangered;
+    
+}
+.justify-content-center{
+    margin-top: 11.5em;
+    
+   
+}
+.btn-primary{
+    border-radius: 20px;
+}
+.btn-primary:hover{
+    background-color: orangered;
+}
